@@ -1,0 +1,16 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "BEP20 Tether USD (USDT) deployed by Maestro on BNB Smart Chain.",
+  "website": "https://tether.to",
+  "explorer": "https://bscscan.com/token/0x34BbFD09CEB9671417bc1041c0a8d0E137010F2a",
+  "status": "active",
+  "id": "0x34BbFD09CEB9671417bc1041c0a8d0E137010F2a",
+  "tags": [
+    "stablecoin",
+    "Tether USD",
+    "usdt"
+  ]
+}
