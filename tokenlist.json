@@ -15,7 +15,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/Maestrocrypto/tetherusd-metadata@main/0x34BbFD09CEB9671417bc1041c0a8d0E137010F2a/logo.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeiffqlzcsor362glbwx7v3gvvr75tr4xwqzdc5choqekcich4pu3bi"
     }
   ]
 }
