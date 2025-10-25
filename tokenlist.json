@@ -1,0 +1,21 @@
+{
+  "name": "Maestro Token List",
+  "logoURI": "https://cdn.jsdelivr.net/gh/Maestrocrypto/tetherusd-metadata@main/0x34BbFD09CEB9671417bc1041c0a8d0E137010F2a/logo.png",
+  "keywords": ["bep20", "usdt", "tether", "maestro"],
+  "timestamp": "2025-10-25T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x34BbFD09CEB9671417bc1041c0a8d0E137010F2a",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Maestrocrypto/tetherusd-metadata@main/0x34BbFD09CEB9671417bc1041c0a8d0E137010F2a/logo.png"
+    }
+  ]
+}
